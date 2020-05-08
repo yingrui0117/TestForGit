@@ -9,7 +9,7 @@ public class FirstClass {
         System.out.println("dev");
         System.out.println("在 dev 上的更多修改");
 
-        System.out.println("在 master 上的新修改");
+        System.out.println("在 master 上的新修改2");
     }
 
 }
