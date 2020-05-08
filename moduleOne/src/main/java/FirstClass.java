@@ -8,6 +8,8 @@ public class FirstClass {
         System.out.println("789");
         System.out.println("dev");
         System.out.println("在 dev 上的更多修改");
+
+        System.out.println("新建了分支 dev2");
     }
 
 }
