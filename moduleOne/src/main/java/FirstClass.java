@@ -10,6 +10,7 @@ public class FirstClass {
         System.out.println("在 dev 上的更多修改");
 
         System.out.println("新建了分支 dev2");
+        System.out.println("在 dev2 上的新修改");
     }
 
 }
